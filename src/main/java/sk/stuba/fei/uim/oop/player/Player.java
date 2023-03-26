@@ -42,12 +42,7 @@ public class Player {
         this.skipRound = skipRound;
     }
 
-    public boolean isSkipRound() {
-        return skipRound;
-    }
-    public boolean getSkipRound(boolean skipRound) {
-        return skipRound;
-    }
+
 
 
 
